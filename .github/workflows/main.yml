@@ -1,4 +1,4 @@
-name: ds-lib Workflow
+name: '@mquanit/ds-lib Workflow'
 on:
   push:
     branches:

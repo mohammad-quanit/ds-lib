@@ -1,4 +1,4 @@
-name: Publish
+name: '@mquanit/ds-lib Publish'
 
 on:
   push:

@@ -1,4 +1,4 @@
-# ds-lib
+# @mquanit/ds-lib
 
 ## 0.0.2
 

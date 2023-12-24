@@ -1,1 +1,1 @@
-# ds-lib
+# @mquanit/ds-lib
