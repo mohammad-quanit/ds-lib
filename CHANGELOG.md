@@ -1,5 +1,11 @@
 # @mquanit/ds-lib
 
+## 0.0.3
+
+### Patch Changes
+
+- 3ba5ca7: fix: dist folder should show
+
 ## 0.0.2
 
 ### Patch Changes
