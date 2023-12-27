@@ -1,5 +1,12 @@
 # @mquanit/ds-lib
 
+## 0.0.4
+
+### Patch Changes
+
+- c443986: add: linkedlist and refactor queue
+- 77e87b1: add: linkedlist and refactor queue
+
 ## 0.0.3
 
 ### Patch Changes
