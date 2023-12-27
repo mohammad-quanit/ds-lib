@@ -1,5 +1,12 @@
 # @mquanit/ds-lib
 
+## 0.0.5
+
+### Patch Changes
+
+- d3449d3: add: entrypoint for exports
+- 33093c7: add: entrypoint for exports
+
 ## 0.0.4
 
 ### Patch Changes
